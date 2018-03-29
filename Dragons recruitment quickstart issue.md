@@ -14,7 +14,8 @@ See [18F method cards](https://methods.18f.gov/) for some options. [@BenB - I'll
   * (ex: have used Vets.gov, have previously applied for Voc Rehab - think about people who would be able to use the tool or benefit but might have different previous experiences or knowledge that would affect their familiarity or understanding)
 * Indicate if you're looking for a particular age range, geographic reach, or other demographics. (If nothing is indicated here, we'll strive for an even spread of ages, genders, branches of service, ethnicities, and geographic areas.) 
 
-## Dates and Times Available for Sessions
+## Dates and Times You Would Like to Have Sessions
+PM and mod should propose these to the recruiter.
 Things to consider:
 * When are your moderator and note-taker available? Their schedules dictate these slots.
 * It's difficult for one person to moderate more than 3 hours of research in a day or 2 sessions back-to-back.
