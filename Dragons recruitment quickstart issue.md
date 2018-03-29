@@ -15,7 +15,7 @@ See [18F method cards](https://methods.18f.gov/) for some options. [@BenB - I'll
 * Indicate if you're looking for a particular age range, geographic reach, or other demographics. (If nothing is indicated here, we'll strive for an even spread of ages, genders, branches of service, ethnicities, and geographic areas.) 
 
 ## Dates and Times You Would Like to Have Sessions
-PM and mod should propose these to the recruiter.
+PM and mod should propose these to the recruiter. Make sure you have notetakers lined up.
 Things to consider:
 * When are your moderator and note-taker available? Their schedules dictate these slots.
 * It's difficult for one person to moderate more than 3 hours of research in a day or 2 sessions back-to-back.
@@ -25,5 +25,6 @@ Things to consider:
 * PM:
 * Designer:
 * Recruiter:
+* Notetakers: (specify which sessions)
 
 ## Date scheduled for check-in with recruiter (1 week before sessions start)
