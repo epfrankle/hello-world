@@ -22,7 +22,9 @@ Things to consider:
 ## Points of contact for this project
 * Moderator:
 * PM:
+* Designer:
 * Recruiter:
 * Notetakers: (specify which sessions)
 
-## Date scheduled for check-in with recruiter (1 week before sessions start)
+- [ ] PM, Moderator, Designer, Recruiter have met to discuss and confirm criteria and dates
+- [ ] Date scheduled for check-in with recruiter (1 week before sessions start): mm/dd
