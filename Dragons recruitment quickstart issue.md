@@ -28,3 +28,4 @@ Things to consider:
 
 - [ ] PM, Moderator, Designer, Recruiter have met to discuss and confirm criteria and dates
 - [ ] Date scheduled for check-in with recruiter (1 week before sessions start): mm/dd
+- [ ] Doodle or Powwow for scheduling created ([link]())
