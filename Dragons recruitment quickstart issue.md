@@ -9,12 +9,11 @@
 ## Recruitment criteria
 * Number of participants: 
 * Participant Requirements (_All or Some participants must be..._):
-* MHV - 
-  - Veterans who have MHV accounts (basic, advanced, premium)
-* Disability claims -  
-  - Veterans who have at least a 10% rating
-  - Veteans who have filed for a disability claim
-  - Veterans who have not filed for a disabiity claim
+*Check the box if you have requirements in the category.*
+- [ ] MHV account (specify level:)
+- [ ] DS Logon account (specify level:)
+- [ ] Disability rating (specify % threshhold:)
+- [ ] Have or have not used a particular benefit (specify which:)
  * Voc. Rehab-
   - Veterans who have at least a 20% rating
   - 12 years removed from the serivice
