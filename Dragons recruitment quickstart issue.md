@@ -9,8 +9,24 @@
 ## Recruitment criteria
 * Number of participants: 
 * Participant Requirements (_All or Some participants must be..._):
-  
-
+* MHV - 
+  - Veterans who have MHV accounts (basic, advanced, premium)
+* Disability claims -  
+  - Veterans who have at least a 10% rating
+  - Veteans who have filed for a disability claim
+  - Veterans who have not filed for a disabiity claim
+ * Voc. Rehab-
+  - Veterans who have at least a 20% rating
+  - 12 years removed from the serivice
+  - have used Voc Rehab
+ * GI Bill
+ * Discharge Wizard:
+  - Veterans who have been other than honorably discharged
+ * VIC -
+  - Veterans who have tried to download identification card
+ * Personalization -
+  - Veterans who have used Vets.gov, eBen. or MHV
+ 
 * _Indicate if you're looking for a particular age range, geographic reach, account type, or other demographics. (If nothing is indicated here, we'll strive for an even spread of ages, genders, branches of service, ethnicities, and geographic areas.)_ 
 
 ## Dates and Times You Would Like to Have Sessions
