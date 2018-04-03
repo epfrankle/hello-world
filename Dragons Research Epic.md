@@ -18,11 +18,10 @@ Definition of done:
 - [ ] Longform Research Planning Issue completed
 - [ ] Conversation guide or activity written and piloted
 - [ ] Sessions or activities conducted
-- [ ] Mid-week check-in with moderator, notetaker, observers
-- [ ] Post-sessions check-in with moderator, notetaker, observers
+- [ ] Sessions halfway point check-in between moderator, notetaker, observers (how are we doing?)
+- [ ] Post-sessions recap between moderator, notetaker, observers
 - [ ] Synthesis completed
-- [ ] Readout files created
-- [ ] Readout shared with project team and broader stakeholders
+- [ ] Readout files created and shared with project team and broader stakeholders
 - [ ] Next steps for design and build documented
 
 Possible research methods include (but are not limited to)
