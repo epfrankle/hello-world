@@ -1,4 +1,4 @@
-# Research Epic Template
+# User Research Epic Template
 
 ### Issue Title:
 
