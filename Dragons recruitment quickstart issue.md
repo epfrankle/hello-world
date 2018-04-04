@@ -14,17 +14,7 @@
 - [ ] DS Logon account (specify level:)
 - [ ] Disability rating (specify % threshhold:)
 - [ ] Have or have not used a particular benefit (specify which:)
- * Voc. Rehab-
-  - Veterans who have at least a 20% rating
-  - 12 years removed from the serivice
-  - have used Voc Rehab
- * GI Bill
- * Discharge Wizard:
-  - Veterans who have been other than honorably discharged
- * VIC -
-  - Veterans who have tried to download identification card
- * Personalization -
-  - Veterans who have used Vets.gov, eBen. or MHV
+- [ ] Have or have not filled out a particular application or form (specify which:)
  
 * _Indicate if you're looking for a particular age range, geographic reach, account type, or other demographics. (If nothing is indicated here, we'll strive for an even spread of ages, genders, branches of service, ethnicities, and geographic areas.)_ 
 
